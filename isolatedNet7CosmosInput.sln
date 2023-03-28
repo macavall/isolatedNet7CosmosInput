@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isolatedNet7CosmosInput", "isolatedNet7CosmosInput.csproj", "{5337E260-7C48-438F-BA8A-FE1A25549D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5337E260-7C48-438F-BA8A-FE1A25549D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5337E260-7C48-438F-BA8A-FE1A25549D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5337E260-7C48-438F-BA8A-FE1A25549D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5337E260-7C48-438F-BA8A-FE1A25549D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE3AFDBA-B073-4783-B89F-028F2A1565A3}
+	EndGlobalSection
+EndGlobal
