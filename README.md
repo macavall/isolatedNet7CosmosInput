@@ -1,0 +1,1 @@
+# isolatedNet7CosmosInput
